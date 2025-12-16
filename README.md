@@ -1,61 +1,246 @@
-# سلام! من [نام شما] هستم 👋
+<!-- ENGLISH VERSION -->
 
-### 👨‍💻 توسعه‌دهنده پایتون | متخصص هوش مصنوعی و دیتا ساینس
+<h1 align="center">Hey there! 👋 I'm [Your Name]</h1>
 
-من یک برنامه‌نویس مشتاق و علاقه‌مند به دنیای داده‌ها هستم. تمرکز اصلی من روی ساخت مدل‌های هوشمند، تحلیل داده و توسعه بک‌اند با جنگو است.
+<h3 align="center">🚀 Python Developer & AI/ML Specialist from Iran 🇮🇷</h3>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+</p>
+
+<p align="center">
+  <a href="#persian">🇮🇷 نسخه فارسی</a>
+</p>
 
 ---
 
-### 🛠 مهارت‌ها و ابزارها (Tech Stack)
+## 🧑‍💻 About Me
 
-**زبان‌ها و فریم‌ورک‌ها:**
-<p align="left">
+- 🔭 Currently working on **AI & Machine Learning** projects
+- 🌱 Passionate about **Deep Learning** and **Data Science**
+- 💬 Ask me about **Python, Django, AI/ML, Databases**
+- ⚡ I love solving complex problems with data
+- 🎯 Goal: Building intelligent systems that make a difference
+
+---
+
+## 🛠️ Skills & Technologies
+
+### 💻 Programming & Frameworks
+<p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/Django%20REST-ff1709?style=for-the-badge&logo=django&logoColor=white" />
 </p>
 
-**هوش مصنوعی و یادگیری ماشین (AI & ML):**
-<p align="left">
+### 🤖 AI / ML / DL
+<p align="center">
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
   <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
 </p>
 
-**دیتا ساینس و تحلیل داده:**
-<p align="left">
+### 📊 Data Science
+<p align="center">
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=pandas&logoColor=black" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
 </p>
 
----
-
-### 🔭 هم‌اکنون روی چه چیزی کار می‌کنم؟
-- 🌱 در حال یادگیری مفاهیم پیشرفته **Deep Learning** و معماری‌های جدید.
-- 👯‍ به دنبال همکاری در پروژه‌های **Open Source** مرتبط با هوش مصنوعی.
-- 💬 درباره **Python, NLP, Computer Vision** از من بپرسید.
-
----
-
-### 📊 آمار گیت‌هاب من
-
+### 🗄️ Databases
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical" alt="github stats" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
 </p>
 
+### 🔧 Tools
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical" alt="top languages" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 </p>
 
 ---
 
-### 📫 راه‌های ارتباطی
+## 📊 Expertise Areas
 
-<a href="mailto:your-email@example.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-<a href="https://linkedin.com/in/your-linkedin">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
+| Area | Description |
+|------|-------------|
+| 🤖 **Artificial Intelligence** | Building intelligent systems |
+| 📈 **Machine Learning** | Predictive modeling & algorithms |
+| 🧠 **Deep Learning** | Neural networks & computer vision |
+| 📊 **Data Science** | Data analysis & visualization |
+| 🌐 **Django** | Backend web development |
+| 🗄️ **Databases** | PostgreSQL & MySQL |
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&locale=en" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&row=1&column=7" alt="trophies" />
+</p>
+
+---
+
+## 🤝 Connect With Me
+
+<p align="center">
+  <a href="mailto:YOUR_EMAIL">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://t.me/YOUR_TELEGRAM">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
+  </a>
+</p>
+
+---
+---
+
+<!-- PERSIAN VERSION -->
+
+<a name="persian"></a>
+
+<h1 align="center">سلام! 👋 من [اسمت] هستم</h1>
+
+<h3 align="center">🚀 توسعه‌دهنده Python و متخصص هوش مصنوعی از ایران 🇮🇷</h3>
+
+<p align="center">
+  <a href="#top">🇬🇧 English Version</a>
+</p>
+
+---
+
+## 🧑‍💻 درباره من
+
+- 🔭 در حال کار روی پروژه‌های **هوش مصنوعی و یادگیری ماشین**
+- 🌱 علاقه‌مند به **یادگیری عمیق** و **علم داده**
+- 💬 از من بپرسید درباره **Python, Django, AI/ML, پایگاه داده**
+- ⚡ عاشق حل مسائل پیچیده با داده هستم
+- 🎯 هدف: ساخت سیستم‌های هوشمند که تفاوت ایجاد کنند
+
+---
+
+## 🛠️ مهارت‌ها و تکنولوژی‌ها
+
+### 💻 برنامه‌نویسی و فریمورک‌ها
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/Django%20REST-ff1709?style=for-the-badge&logo=django&logoColor=white" />
+</p>
+
+### 🤖 هوش مصنوعی / یادگیری ماشین / یادگیری عمیق
+<p align="center">
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+</p>
+
+### 📊 علم داده
+<p align="center">
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
+</p>
+
+### 🗄️ پایگاه داده
+<p align="center">
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
+</p>
+
+### 🔧 ابزارها
+<p align="center">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+</p>
+
+---
+
+## 📊 حوزه‌های تخصصی
+
+| حوزه | توضیحات |
+|------|---------|
+| 🤖 **هوش مصنوعی** | ساخت سیستم‌های هوشمند |
+| 📈 **یادگیری ماشین** | مدل‌سازی پیش‌بینی و الگوریتم‌ها |
+| 🧠 **یادگیری عمیق** | شبکه‌های عصبی و بینایی کامپیوتر |
+| 📊 **علم داده** | تحلیل و مصورسازی داده |
+| 🌐 **جنگو** | توسعه بک‌اند وب |
+| 🗄️ **پایگاه داده** | PostgreSQL و MySQL |
+
+---
+
+## 📈 آمار گیت‌هاب
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&locale=fa" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" alt="GitHub Streak" />
+</p>
+
+---
+
+## 🏆 تروفی‌های گیت‌هاب
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&row=1&column=7" alt="trophies" />
+</p>
+
+---
+
+## 🤝 ارتباط با من
+
+<p align="center">
+  <a href="mailto:YOUR_EMAIL">
+    <img src="https://img.shields.io/badge/ایمیل-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN">
+    <img src="https://img.shields.io/badge/لینکدین-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://t.me/YOUR_TELEGRAM">
+    <img src="https://img.shields.io/badge/تلگرام-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+</p>
+
+<p align="center">
+  ⭐️ From <a href="https://github.com/YOUR_USERNAME">YOUR_USERNAME</a> with ❤️
+</p>
