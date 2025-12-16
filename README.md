@@ -1,6 +1,6 @@
 <!-- ENGLISH VERSION -->
 
-<h1 align="center">Hey there! 👋 I'm [Your Name]</h1>
+<h1 align="center">Hey there! 👋 I'm ALi Adine</h1>
 
 <h3 align="center">🚀 Python Developer & AI/ML Specialist from Iran 🇮🇷</h3>
 
@@ -80,40 +80,19 @@
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&locale=en" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&row=1&column=7" alt="trophies" />
-</p>
 
 ---
 
 ## 🤝 Connect With Me
 
 <p align="center">
-  <a href="mailto:YOUR_EMAIL">
+  <a href="mailto:aliadineh08@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN">
+  <a href="https://linkedin.com/in/ali-adineh-8b93ab3a0/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://t.me/YOUR_TELEGRAM">
+  <a href="https://t.me/ennui_007">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
 </p>
@@ -125,9 +104,9 @@
 
 <a name="persian"></a>
 
-<h1 align="center">سلام! 👋 من [اسمت] هستم</h1>
+<h1 align="center">سلام! 👋 من علی آدینه هستم</h1>
 
-<h3 align="center">🚀 توسعه‌دهنده Python و متخصص هوش مصنوعی از ایران 🇮🇷</h3>
+<h3 align="center">🚀 توسعه‌دهنده پایتون و متخصص هوش مصنوعی از ایران </h3>
 
 <p align="center">
   <a href="#top">🇬🇧 English Version</a>
@@ -201,37 +180,19 @@
 
 ---
 
-## 📈 آمار گیت‌هاب
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&locale=fa" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" alt="GitHub Streak" />
-</p>
-
----
-
-## 🏆 تروفی‌های گیت‌هاب
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&row=1&column=7" alt="trophies" />
-</p>
-
----
 
 ## 🤝 ارتباط با من
 
 <p align="center">
-  <a href="mailto:YOUR_EMAIL">
-    <img src="https://img.shields.io/badge/ایمیل-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <a href="mailto:aliadineh08@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN">
-    <img src="https://img.shields.io/badge/لینکدین-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="https://linkedin.com/in/ali-adineh-8b93ab3a0/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://t.me/YOUR_TELEGRAM">
-    <img src="https://img.shields.io/badge/تلگرام-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
+  <a href="https://t.me/ennui_007">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
 </p>
 
